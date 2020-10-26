@@ -1,0 +1,2869 @@
+2020-10-25 15:59:12,305 - logs… - INFO - resultPathC:\interfaceTest\result\report.html
+2020-10-25 15:59:12,307 - logs… - INFO - caseListFileC:\interfaceTest\caselist.txt
+2020-10-25 15:59:12,307 - logs… - INFO - caseList[]
+2020-10-25 15:59:26,477 - logs… - INFO - send email ok!!!!
+2020-10-25 15:59:28,338 - logs… - INFO - resultPathC:\interfaceTest\result\report.html
+2020-10-25 15:59:28,338 - logs… - INFO - caseListFileC:\interfaceTest\caselist.txt
+2020-10-25 15:59:28,338 - logs… - INFO - caseList[]
+2020-10-25 15:59:38,211 - logs… - INFO - send email ok!!!!
+2020-10-25 16:05:37,327 - logs… - INFO - resultPathC:\interfaceTest\result\report.html
+2020-10-25 16:05:37,328 - logs… - INFO - caseListFileC:\interfaceTest\caselist.txt
+2020-10-25 16:05:37,336 - logs… - INFO - caseList[]
+2020-10-25 16:05:37,463 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 16:05:37,469 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 16:05:37,474 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 16:05:39,408 - logs… - INFO - send email ok!!!!
+2020-10-25 17:54:34,022 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 17:54:34,022 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 17:54:34,022 - logs… - INFO - caseList[]
+2020-10-25 18:10:39,082 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 18:11:13,712 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 18:11:16,788 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 18:12:06,295 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 18:12:09,956 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 18:15:43,505 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:15:43,505 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:15:43,505 - logs… - INFO - caseList[]
+2020-10-25 18:16:53,370 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:16:53,370 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:16:53,370 - logs… - INFO - caseList[]
+2020-10-25 18:17:02,532 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:17:02,533 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:17:02,533 - logs… - INFO - caseList[]
+2020-10-25 18:18:50,547 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:18:50,548 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:18:50,548 - logs… - INFO - caseList[]
+2020-10-25 18:22:28,314 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:22:28,314 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:22:28,314 - logs… - INFO - caseList[]
+2020-10-25 18:22:54,741 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:22:54,741 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:22:54,741 - logs… - INFO - caseList[]
+2020-10-25 18:23:29,461 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:23:29,462 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:23:29,462 - logs… - INFO - caseList[]
+2020-10-25 18:24:09,017 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:24:09,017 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:24:09,017 - logs… - INFO - caseList[]
+2020-10-25 18:24:36,100 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:24:36,104 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:24:36,105 - logs… - INFO - caseList[]
+2020-10-25 18:25:45,415 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:25:45,415 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:25:45,416 - logs… - INFO - caseList[]
+2020-10-25 18:26:00,791 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:26:00,791 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:26:00,791 - logs… - INFO - caseList[]
+2020-10-25 18:26:33,070 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:26:33,070 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:26:33,070 - logs… - INFO - caseList[]
+2020-10-25 18:26:43,445 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:26:43,445 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:26:43,445 - logs… - INFO - caseList[]
+2020-10-25 18:27:48,298 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:27:48,299 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:27:48,299 - logs… - INFO - caseList[]
+2020-10-25 18:27:58,812 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:27:58,812 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:27:58,813 - logs… - INFO - caseList[]
+2020-10-25 18:28:32,870 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:28:32,871 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:28:32,871 - logs… - INFO - caseList[]
+2020-10-25 18:35:45,098 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:35:45,098 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:35:45,098 - logs… - INFO - caseList[]
+2020-10-25 18:35:51,296 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:35:51,296 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:35:51,296 - logs… - INFO - caseList[]
+2020-10-25 18:35:55,349 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:35:55,349 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:35:55,349 - logs… - INFO - caseList[]
+2020-10-25 18:44:47,716 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:44:47,716 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:44:47,716 - logs… - INFO - caseList[]
+2020-10-25 18:44:47,813 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 18:44:47,816 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 18:44:47,820 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 18:45:13,030 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:45:13,031 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:45:13,031 - logs… - INFO - caseList[]
+2020-10-25 18:45:13,114 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 18:45:13,118 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 18:45:13,121 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 18:49:13,926 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:49:13,927 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:49:13,927 - logs… - INFO - caseList[]
+2020-10-25 18:49:41,712 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 18:49:41,720 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 18:49:41,726 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 18:50:44,911 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:50:44,911 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:50:44,911 - logs… - INFO - caseList[]
+2020-10-25 18:50:59,972 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:50:59,972 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:50:59,972 - logs… - INFO - caseList[]
+2020-10-25 18:51:07,982 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:51:07,982 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:51:07,982 - logs… - INFO - caseList[]
+2020-10-25 18:51:18,455 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:51:18,455 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:51:18,455 - logs… - INFO - caseList[]
+2020-10-25 18:51:18,541 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 18:51:18,544 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 18:51:18,547 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 18:51:38,267 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:51:38,267 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:51:38,267 - logs… - INFO - caseList[]
+2020-10-25 18:51:40,625 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 18:51:40,630 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 18:51:40,635 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 18:51:58,843 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:51:58,844 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:51:58,844 - logs… - INFO - caseList[]
+2020-10-25 18:51:58,956 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 18:51:58,961 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 18:51:58,965 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 18:52:07,485 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:52:07,486 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:52:07,486 - logs… - INFO - caseList[]
+2020-10-25 18:52:07,579 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 18:52:07,583 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 18:52:07,587 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 18:52:34,578 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:52:34,579 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:52:34,579 - logs… - INFO - caseList[]
+2020-10-25 18:52:36,252 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 18:52:36,259 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 18:52:36,266 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 18:53:00,333 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:53:00,334 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:53:00,334 - logs… - INFO - caseList[]
+2020-10-25 18:53:03,789 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 18:53:03,794 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 18:53:03,799 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 18:54:19,781 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:54:19,781 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:54:19,781 - logs… - INFO - caseList[]
+2020-10-25 18:54:19,861 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 18:54:19,864 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 18:54:19,867 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 18:54:48,189 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:54:48,189 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:54:48,189 - logs… - INFO - caseList[]
+2020-10-25 18:54:48,285 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 18:54:48,289 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 18:54:48,293 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 18:56:39,381 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:56:39,381 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:56:39,381 - logs… - INFO - caseList[]
+2020-10-25 18:56:50,463 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 18:56:50,468 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 18:56:50,473 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 18:57:19,050 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 18:57:19,050 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 18:57:19,050 - logs… - INFO - caseList[]
+2020-10-25 18:57:19,148 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 18:57:19,152 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 18:57:19,155 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 19:07:07,170 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 19:07:07,170 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 19:07:07,170 - logs… - INFO - caseList[]
+2020-10-25 19:07:07,294 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 19:07:07,298 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 19:07:07,302 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 19:15:41,817 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 19:15:41,817 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 19:15:41,817 - logs… - INFO - caseList[]
+2020-10-25 19:15:48,370 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 19:15:48,370 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 19:15:48,371 - logs… - INFO - caseList[]
+2020-10-25 19:15:48,471 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 19:15:48,475 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 19:15:48,478 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 19:15:55,934 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 19:15:55,935 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 19:15:55,935 - logs… - INFO - caseList[]
+2020-10-25 19:16:51,990 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 19:16:51,990 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 19:16:51,990 - logs… - INFO - caseList[]
+2020-10-25 19:16:52,108 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 19:16:52,114 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 19:16:52,118 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 19:20:03,842 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 19:20:03,842 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 19:20:03,842 - logs… - INFO - caseList[]
+2020-10-25 19:25:24,244 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 19:25:24,245 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 19:25:24,245 - logs… - INFO - caseList[]
+2020-10-25 19:25:24,326 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 19:25:24,330 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 19:25:24,333 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 19:39:51,456 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 19:39:51,457 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 19:39:51,457 - logs… - INFO - caseList[]
+2020-10-25 19:39:51,543 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 19:39:51,546 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 19:39:51,550 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 19:40:13,447 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 19:40:13,448 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 19:40:13,448 - logs… - INFO - caseList[]
+2020-10-25 19:40:13,575 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 19:40:13,579 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 19:40:13,583 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 19:45:30,295 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 19:45:30,295 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 19:45:30,295 - logs… - INFO - caseList[]
+2020-10-25 19:45:30,391 - logs… - INFO - {
+  "code": 300,
+  "message": "登录成功"
+}
+2020-10-25 19:45:30,395 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 19:45:30,399 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 19:45:50,998 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 19:45:50,998 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 19:45:50,998 - logs… - INFO - caseList[]
+2020-10-25 19:45:51,098 - logs… - INFO - {
+  "code": 300,
+  "message": "登录成功"
+}
+2020-10-25 19:45:51,102 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 19:45:51,106 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 19:46:21,132 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 19:46:21,132 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 19:46:21,132 - logs… - INFO - caseList[]
+2020-10-25 19:46:21,217 - logs… - INFO - {
+  "code": 300,
+  "message": "登录成功"
+}
+2020-10-25 19:46:21,220 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 19:46:21,223 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 19:46:50,011 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 19:46:50,011 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 19:46:50,011 - logs… - INFO - caseList[]
+2020-10-25 19:46:50,112 - logs… - INFO - {
+  "code": 300,
+  "message": "登录成功"
+}
+2020-10-25 19:46:50,115 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 19:46:50,119 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 19:50:22,140 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 19:50:22,140 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 19:50:22,140 - logs… - INFO - caseList[]
+2020-10-25 19:50:22,227 - logs… - INFO - {
+  "code": 300,
+  "message": "登录成功"
+}
+2020-10-25 19:50:22,230 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 19:50:22,234 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 19:50:31,053 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 19:50:31,053 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 19:50:31,053 - logs… - INFO - caseList[]
+2020-10-25 19:50:31,156 - logs… - INFO - {
+  "code": 300,
+  "message": "登录成功"
+}
+2020-10-25 19:50:31,160 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 19:50:31,164 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 19:51:10,573 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 19:51:10,573 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 19:51:10,573 - logs… - INFO - caseList[]
+2020-10-25 19:51:10,654 - logs… - INFO - {
+  "code": 300,
+  "message": "登录成功"
+}
+2020-10-25 19:51:10,658 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 19:51:10,661 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 19:51:22,259 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 19:51:22,259 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 19:51:22,259 - logs… - INFO - caseList[]
+2020-10-25 19:51:22,341 - logs… - INFO - {
+  "code": 300,
+  "message": "登录成功"
+}
+2020-10-25 19:51:22,345 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 19:51:22,350 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 19:51:31,519 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 19:51:31,519 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 19:51:31,519 - logs… - INFO - caseList[]
+2020-10-25 19:51:31,617 - logs… - INFO - {
+  "code": 300,
+  "message": "登录成功"
+}
+2020-10-25 19:51:31,620 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 19:51:31,623 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 19:51:42,183 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 19:51:42,183 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 19:51:42,183 - logs… - INFO - caseList[]
+2020-10-25 19:51:42,267 - logs… - INFO - {
+  "code": 300,
+  "message": "登录成功"
+}
+2020-10-25 19:51:42,273 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 19:51:42,277 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 19:52:02,696 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 19:52:02,697 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 19:52:02,697 - logs… - INFO - caseList[]
+2020-10-25 19:52:02,780 - logs… - INFO - {
+  "code": 300,
+  "message": "登录成功"
+}
+2020-10-25 19:52:02,783 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 19:52:02,787 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 19:52:08,268 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 19:52:08,268 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 19:52:08,268 - logs… - INFO - caseList[]
+2020-10-25 19:52:08,378 - logs… - INFO - {
+  "code": 300,
+  "message": "登录成功"
+}
+2020-10-25 19:52:08,382 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 19:52:08,389 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 19:53:11,190 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 19:53:11,190 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 19:53:11,190 - logs… - INFO - caseList[]
+2020-10-25 19:53:11,295 - logs… - INFO - {
+  "code": 300,
+  "message": "登录成功"
+}
+2020-10-25 19:53:11,299 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 19:53:11,303 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 19:53:41,003 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 19:53:41,003 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 19:53:41,004 - logs… - INFO - caseList[]
+2020-10-25 19:53:41,096 - logs… - INFO - {
+  "code": 300,
+  "message": "登录成功"
+}
+2020-10-25 19:53:41,101 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 19:53:41,104 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 19:53:59,984 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 19:53:59,985 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 19:53:59,985 - logs… - INFO - caseList[]
+2020-10-25 19:54:00,072 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 19:54:00,076 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 19:54:00,081 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 19:54:38,845 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 19:54:38,846 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 19:54:38,846 - logs… - INFO - caseList[]
+2020-10-25 19:54:38,945 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 19:54:38,948 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 19:54:38,952 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 19:56:29,287 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 19:56:29,287 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 19:56:29,287 - logs… - INFO - caseList[]
+2020-10-25 19:56:29,387 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 19:56:29,391 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 19:56:29,394 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 19:56:51,751 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 19:56:51,751 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 19:56:51,751 - logs… - INFO - caseList[]
+2020-10-25 19:56:51,839 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 19:56:51,842 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 19:56:51,845 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 20:03:43,238 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:03:43,238 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:03:43,238 - logs… - INFO - caseList[]
+2020-10-25 20:03:43,359 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 20:03:43,363 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 20:03:43,368 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 20:15:18,844 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:15:18,845 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:15:18,845 - logs… - INFO - caseList[]
+2020-10-25 20:15:18,979 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 20:15:29,155 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 20:15:39,179 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 20:17:35,575 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:17:35,576 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:17:35,576 - logs… - INFO - caseList[]
+2020-10-25 20:17:35,681 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 20:17:45,831 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 20:17:55,857 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 20:20:03,265 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:20:03,265 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:20:03,266 - logs… - INFO - caseList[]
+2020-10-25 20:20:03,358 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 20:20:13,501 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 20:20:23,525 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 20:23:04,168 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:23:04,168 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:23:04,168 - logs… - INFO - caseList[]
+2020-10-25 20:23:04,262 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 20:23:04,265 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 20:23:04,269 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 20:23:20,243 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:23:20,243 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:23:20,243 - logs… - INFO - caseList[]
+2020-10-25 20:23:20,331 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 20:23:20,334 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 20:23:20,337 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 20:25:43,130 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:25:43,130 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:25:43,131 - logs… - INFO - caseList[]
+2020-10-25 20:26:09,287 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:26:09,288 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:26:09,288 - logs… - INFO - caseList[]
+2020-10-25 20:27:58,492 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:27:58,492 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:27:58,492 - logs… - INFO - caseList[]
+2020-10-25 20:28:32,477 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:28:32,478 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:28:32,478 - logs… - INFO - caseList[]
+2020-10-25 20:30:43,899 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:30:43,899 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:30:43,899 - logs… - INFO - caseList[]
+2020-10-25 20:31:01,457 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:31:01,458 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:31:01,458 - logs… - INFO - caseList[]
+2020-10-25 20:32:06,819 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:32:06,819 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:32:06,819 - logs… - INFO - caseList[]
+2020-10-25 20:32:06,918 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 20:32:06,922 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 20:32:06,926 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 20:32:16,111 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:32:16,111 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:32:16,111 - logs… - INFO - caseList[]
+2020-10-25 20:32:16,206 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 20:32:16,209 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 20:32:16,213 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 20:32:32,444 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:32:32,444 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:32:32,444 - logs… - INFO - caseList[]
+2020-10-25 20:32:32,534 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 20:32:32,537 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 20:32:32,541 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 20:32:37,955 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:32:37,956 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:32:37,956 - logs… - INFO - caseList[]
+2020-10-25 20:32:38,060 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 20:32:38,064 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 20:32:38,067 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 20:32:51,566 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:32:51,566 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:32:51,566 - logs… - INFO - caseList[]
+2020-10-25 20:32:51,670 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 20:32:51,674 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 20:32:51,678 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 20:32:58,681 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:32:58,681 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:32:58,681 - logs… - INFO - caseList[]
+2020-10-25 20:32:58,781 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 20:32:58,785 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 20:32:58,789 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 20:33:02,613 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:33:02,613 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:33:02,613 - logs… - INFO - caseList[]
+2020-10-25 20:33:02,710 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 20:33:02,714 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 20:33:02,719 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 20:34:09,035 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:34:09,035 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:34:09,035 - logs… - INFO - caseList[]
+2020-10-25 20:34:19,895 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:34:19,895 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:34:19,895 - logs… - INFO - caseList[]
+2020-10-25 20:34:30,018 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:34:30,018 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:34:30,018 - logs… - INFO - caseList[]
+2020-10-25 20:34:30,120 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 20:34:30,124 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 20:34:30,127 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 20:35:32,213 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:35:32,213 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:35:32,213 - logs… - INFO - caseList[]
+2020-10-25 20:35:32,322 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 20:35:32,326 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 20:35:32,329 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 20:35:37,804 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:35:37,804 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:35:37,804 - logs… - INFO - caseList[]
+2020-10-25 20:35:37,908 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 20:35:37,912 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 20:35:37,916 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 20:35:52,155 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:35:52,156 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:35:52,156 - logs… - INFO - caseList[]
+2020-10-25 20:53:06,870 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:53:06,870 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:53:06,870 - logs… - INFO - caseList[]
+2020-10-25 20:53:34,257 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:53:34,258 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:53:34,258 - logs… - INFO - caseList[]
+2020-10-25 20:55:03,845 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:55:03,845 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:55:03,845 - logs… - INFO - caseList[]
+2020-10-25 20:56:08,974 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:56:08,975 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:56:08,975 - logs… - INFO - caseList[]
+2020-10-25 20:59:41,241 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 20:59:41,242 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 20:59:41,242 - logs… - INFO - caseList[]
+2020-10-25 21:00:13,068 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:00:13,068 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:00:13,068 - logs… - INFO - caseList[]
+2020-10-25 21:00:32,593 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:00:32,593 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:00:32,593 - logs… - INFO - caseList[]
+2020-10-25 21:00:54,838 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:00:54,838 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:00:54,838 - logs… - INFO - caseList[]
+2020-10-25 21:00:54,933 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 21:00:54,937 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 21:00:54,940 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:01:33,658 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:01:33,659 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:01:33,659 - logs… - INFO - caseList[]
+2020-10-25 21:02:08,475 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:02:08,475 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:02:08,475 - logs… - INFO - caseList[]
+2020-10-25 21:02:22,395 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:02:22,395 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:02:22,395 - logs… - INFO - caseList[]
+2020-10-25 21:02:44,938 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:02:44,938 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:02:44,938 - logs… - INFO - caseList[]
+2020-10-25 21:03:16,973 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:03:16,974 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:03:16,974 - logs… - INFO - caseList[]
+2020-10-25 21:03:39,427 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:03:39,428 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:03:39,428 - logs… - INFO - caseList[]
+2020-10-25 21:04:06,939 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:04:06,939 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:04:06,940 - logs… - INFO - caseList[]
+2020-10-25 21:04:28,662 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:04:28,662 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:04:28,662 - logs… - INFO - caseList[]
+2020-10-25 21:05:00,771 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:05:00,771 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:05:00,771 - logs… - INFO - caseList[]
+2020-10-25 21:05:55,387 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:05:55,388 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:05:55,388 - logs… - INFO - caseList[]
+2020-10-25 21:06:02,226 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:06:02,226 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:06:02,226 - logs… - INFO - caseList[]
+2020-10-25 21:06:07,947 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:06:07,947 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:06:07,947 - logs… - INFO - caseList[]
+2020-10-25 21:06:17,023 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:06:17,023 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:06:17,023 - logs… - INFO - caseList[]
+2020-10-25 21:06:44,060 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:06:44,060 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:06:44,061 - logs… - INFO - caseList[]
+2020-10-25 21:07:17,546 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:07:17,546 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:07:17,546 - logs… - INFO - caseList[]
+2020-10-25 21:07:50,262 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:07:50,263 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:07:50,263 - logs… - INFO - caseList[]
+2020-10-25 21:10:19,550 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:10:19,551 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:10:19,551 - logs… - INFO - caseList[]
+2020-10-25 21:10:35,714 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:10:35,714 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:10:35,714 - logs… - INFO - caseList[]
+2020-10-25 21:11:17,843 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:11:17,843 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:11:17,843 - logs… - INFO - caseList[]
+2020-10-25 21:11:17,925 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 21:11:17,928 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 21:11:17,931 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:12:24,223 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:12:24,224 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:12:24,224 - logs… - INFO - caseList[]
+2020-10-25 21:12:24,320 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-10-25 21:12:24,325 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 21:12:24,329 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:14:32,149 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:14:32,150 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:14:32,150 - logs… - INFO - caseList[]
+2020-10-25 21:14:32,227 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:14:32,232 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 21:14:32,237 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:14:52,961 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:14:52,961 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:14:52,961 - logs… - INFO - caseList[]
+2020-10-25 21:14:53,052 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:14:53,055 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 21:14:53,059 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:15:03,287 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:15:03,287 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:15:03,287 - logs… - INFO - caseList[]
+2020-10-25 21:15:03,755 - logs… - INFO - {
+  "error": "Unauthorized",
+  "message": "No message available",
+  "path": "/restapi/zone/listZone",
+  "status": 401,
+  "timestamp": 1603631526565
+}
+2020-10-25 21:15:03,763 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 21:15:03,768 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:15:45,399 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:15:45,399 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:15:45,399 - logs… - INFO - caseList[]
+2020-10-25 21:15:45,823 - logs… - INFO - {
+  "error": "Unauthorized",
+  "message": "No message available",
+  "path": "/restapi/zone/listZone",
+  "status": 401,
+  "timestamp": 1603631568621
+}
+2020-10-25 21:15:45,828 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 21:15:45,831 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:17:00,939 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:17:00,939 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:17:00,939 - logs… - INFO - caseList[]
+2020-10-25 21:17:01,451 - logs… - INFO - {
+  "error": "Unauthorized",
+  "message": "No message available",
+  "path": "/restapi/zone/listZone",
+  "status": 401,
+  "timestamp": 1603631644250
+}
+2020-10-25 21:20:33,925 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:20:33,925 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:20:33,925 - logs… - INFO - caseList[]
+2020-10-25 21:20:34,309 - logs… - INFO - {
+  "error": "Unauthorized",
+  "message": "No message available",
+  "path": "/restapi/zone/listZone",
+  "status": 401,
+  "timestamp": 1603631857101
+}
+2020-10-25 21:20:34,316 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 21:20:34,321 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:20:44,790 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:20:44,790 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:20:44,790 - logs… - INFO - caseList[]
+2020-10-25 21:20:45,327 - logs… - INFO - {
+  "error": "Unauthorized",
+  "message": "No message available",
+  "path": "/restapi/zone/listZone",
+  "status": 401,
+  "timestamp": 1603631868118
+}
+2020-10-25 21:21:35,809 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:21:35,810 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:21:35,810 - logs… - INFO - caseList[]
+2020-10-25 21:21:36,371 - logs… - INFO - {
+  "error": "Unauthorized",
+  "message": "No message available",
+  "path": "/restapi/zone/listZone",
+  "status": 401,
+  "timestamp": 1603631919156
+}
+2020-10-25 21:23:17,343 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:23:17,343 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:23:17,343 - logs… - INFO - caseList[]
+2020-10-25 21:23:21,012 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:23:21,012 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:23:21,012 - logs… - INFO - caseList[]
+2020-10-25 21:23:31,960 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:23:31,960 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:23:31,960 - logs… - INFO - caseList[]
+2020-10-25 21:23:50,281 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:23:50,281 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:23:50,281 - logs… - INFO - caseList[]
+2020-10-25 21:23:50,796 - logs… - INFO - {
+  "error": "Unauthorized",
+  "message": "No message available",
+  "path": "/restapi/zone/listZone",
+  "status": 401,
+  "timestamp": 1603632053581
+}
+2020-10-25 21:35:47,959 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:35:47,959 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:35:47,960 - logs… - INFO - caseList[]
+2020-10-25 21:35:48,398 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 21:35:48,403 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:36:24,509 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:36:24,509 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:36:24,509 - logs… - INFO - caseList[]
+2020-10-25 21:36:24,942 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 21:36:24,949 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:37:26,492 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:37:26,493 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:37:26,493 - logs… - INFO - caseList[]
+2020-10-25 21:37:26,936 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 21:37:26,940 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:37:44,207 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:37:44,207 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:37:44,207 - logs… - INFO - caseList[]
+2020-10-25 21:37:44,650 - logs… - INFO - <Response [200]>
+2020-10-25 21:37:44,656 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 21:37:44,660 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:38:20,219 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:38:20,220 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:38:20,220 - logs… - INFO - caseList[]
+2020-10-25 21:38:20,672 - logs… - INFO - {"count":10,"listZoneResponse":[{"uuid":"2bc73a3d-4c92-49da-b323-1142a45dca8c","name":"KVM","isActive":true},{"uuid":"fbd4f7a2-3fb3-4364-982a-224dcf6b91b1","name":"zone-vmware","isActive":false},{"uuid":"667351da-e2f8-4a51-b654-88bbaaefbae0","name":"vmware","isActive":false},{"uuid":"529f1e68-d380-4109-ab68-a85f1d2e7bf7","name":"VMware","isActive":true},{"uuid":"8c27dab6-a275-4d14-8fea-979009be16ad","name":"vsan-01","isActive":true},{"uuid":"50e3733b-d854-414b-9bdb-e9cb5a268c17","name":"KVM1","isActive":false},{"uuid":"7e772dc5-c36c-40de-8a47-4b0de5dc0891","name":"KVM123","isActive":false},{"uuid":"d145f846-b07e-4994-8ce4-950419bfb5ce","name":"zone-hx01","isActive":false},{"uuid":"5b33b4df-5884-478d-9f54-f353e75a7834","name":"sherry-zone","isActive":true},{"uuid":"5ae95fb3-4e60-43f7-9975-90fbd2af3f59","name":"zone-sherry01","isActive":true}]}
+2020-10-25 21:38:20,677 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 21:38:20,681 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:38:46,450 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:38:46,451 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:38:46,451 - logs… - INFO - caseList[]
+2020-10-25 21:38:46,977 - logs… - INFO - {"count":10,"listZoneResponse":[{"uuid":"2bc73a3d-4c92-49da-b323-1142a45dca8c","name":"KVM","isActive":true},{"uuid":"fbd4f7a2-3fb3-4364-982a-224dcf6b91b1","name":"zone-vmware","isActive":false},{"uuid":"667351da-e2f8-4a51-b654-88bbaaefbae0","name":"vmware","isActive":false},{"uuid":"529f1e68-d380-4109-ab68-a85f1d2e7bf7","name":"VMware","isActive":true},{"uuid":"8c27dab6-a275-4d14-8fea-979009be16ad","name":"vsan-01","isActive":true},{"uuid":"50e3733b-d854-414b-9bdb-e9cb5a268c17","name":"KVM1","isActive":false},{"uuid":"7e772dc5-c36c-40de-8a47-4b0de5dc0891","name":"KVM123","isActive":false},{"uuid":"d145f846-b07e-4994-8ce4-950419bfb5ce","name":"zone-hx01","isActive":false},{"uuid":"5b33b4df-5884-478d-9f54-f353e75a7834","name":"sherry-zone","isActive":true},{"uuid":"5ae95fb3-4e60-43f7-9975-90fbd2af3f59","name":"zone-sherry01","isActive":true}]}
+2020-10-25 21:39:06,617 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:39:06,617 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:39:06,617 - logs… - INFO - caseList[]
+2020-10-25 21:39:34,857 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:39:34,858 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:39:34,858 - logs… - INFO - caseList[]
+2020-10-25 21:39:35,344 - logs… - INFO - {"count":10,"listZoneResponse":[{"uuid":"2bc73a3d-4c92-49da-b323-1142a45dca8c","name":"KVM","isActive":true},{"uuid":"fbd4f7a2-3fb3-4364-982a-224dcf6b91b1","name":"zone-vmware","isActive":false},{"uuid":"667351da-e2f8-4a51-b654-88bbaaefbae0","name":"vmware","isActive":false},{"uuid":"529f1e68-d380-4109-ab68-a85f1d2e7bf7","name":"VMware","isActive":true},{"uuid":"8c27dab6-a275-4d14-8fea-979009be16ad","name":"vsan-01","isActive":true},{"uuid":"50e3733b-d854-414b-9bdb-e9cb5a268c17","name":"KVM1","isActive":false},{"uuid":"7e772dc5-c36c-40de-8a47-4b0de5dc0891","name":"KVM123","isActive":false},{"uuid":"d145f846-b07e-4994-8ce4-950419bfb5ce","name":"zone-hx01","isActive":false},{"uuid":"5b33b4df-5884-478d-9f54-f353e75a7834","name":"sherry-zone","isActive":true},{"uuid":"5ae95fb3-4e60-43f7-9975-90fbd2af3f59","name":"zone-sherry01","isActive":true}]}
+2020-10-25 21:39:35,349 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 21:39:35,353 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:41:16,337 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:41:16,337 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:41:16,337 - logs… - INFO - caseList[]
+2020-10-25 21:41:16,840 - logs… - INFO - {"count":10,"listZoneResponse":[{"uuid":"2bc73a3d-4c92-49da-b323-1142a45dca8c","name":"KVM","isActive":true},{"uuid":"fbd4f7a2-3fb3-4364-982a-224dcf6b91b1","name":"zone-vmware","isActive":false},{"uuid":"667351da-e2f8-4a51-b654-88bbaaefbae0","name":"vmware","isActive":false},{"uuid":"529f1e68-d380-4109-ab68-a85f1d2e7bf7","name":"VMware","isActive":true},{"uuid":"8c27dab6-a275-4d14-8fea-979009be16ad","name":"vsan-01","isActive":true},{"uuid":"50e3733b-d854-414b-9bdb-e9cb5a268c17","name":"KVM1","isActive":false},{"uuid":"7e772dc5-c36c-40de-8a47-4b0de5dc0891","name":"KVM123","isActive":false},{"uuid":"d145f846-b07e-4994-8ce4-950419bfb5ce","name":"zone-hx01","isActive":false},{"uuid":"5b33b4df-5884-478d-9f54-f353e75a7834","name":"sherry-zone","isActive":true},{"uuid":"5ae95fb3-4e60-43f7-9975-90fbd2af3f59","name":"zone-sherry01","isActive":true}]}
+2020-10-25 21:41:16,848 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 21:41:16,851 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:41:31,460 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:41:31,461 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:41:31,461 - logs… - INFO - caseList[]
+2020-10-25 21:41:31,967 - logs… - INFO - {"count":10,"listZoneResponse":[{"uuid":"2bc73a3d-4c92-49da-b323-1142a45dca8c","name":"KVM","isActive":true},{"uuid":"fbd4f7a2-3fb3-4364-982a-224dcf6b91b1","name":"zone-vmware","isActive":false},{"uuid":"667351da-e2f8-4a51-b654-88bbaaefbae0","name":"vmware","isActive":false},{"uuid":"529f1e68-d380-4109-ab68-a85f1d2e7bf7","name":"VMware","isActive":true},{"uuid":"8c27dab6-a275-4d14-8fea-979009be16ad","name":"vsan-01","isActive":true},{"uuid":"50e3733b-d854-414b-9bdb-e9cb5a268c17","name":"KVM1","isActive":false},{"uuid":"7e772dc5-c36c-40de-8a47-4b0de5dc0891","name":"KVM123","isActive":false},{"uuid":"d145f846-b07e-4994-8ce4-950419bfb5ce","name":"zone-hx01","isActive":false},{"uuid":"5b33b4df-5884-478d-9f54-f353e75a7834","name":"sherry-zone","isActive":true},{"uuid":"5ae95fb3-4e60-43f7-9975-90fbd2af3f59","name":"zone-sherry01","isActive":true}]}
+2020-10-25 21:41:31,973 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 21:41:31,977 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:41:39,573 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:41:39,573 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:41:39,573 - logs… - INFO - caseList[]
+2020-10-25 21:41:40,007 - logs… - INFO - {"count":10,"listZoneResponse":[{"uuid":"2bc73a3d-4c92-49da-b323-1142a45dca8c","name":"KVM","isActive":true},{"uuid":"fbd4f7a2-3fb3-4364-982a-224dcf6b91b1","name":"zone-vmware","isActive":false},{"uuid":"667351da-e2f8-4a51-b654-88bbaaefbae0","name":"vmware","isActive":false},{"uuid":"529f1e68-d380-4109-ab68-a85f1d2e7bf7","name":"VMware","isActive":true},{"uuid":"8c27dab6-a275-4d14-8fea-979009be16ad","name":"vsan-01","isActive":true},{"uuid":"50e3733b-d854-414b-9bdb-e9cb5a268c17","name":"KVM1","isActive":false},{"uuid":"7e772dc5-c36c-40de-8a47-4b0de5dc0891","name":"KVM123","isActive":false},{"uuid":"d145f846-b07e-4994-8ce4-950419bfb5ce","name":"zone-hx01","isActive":false},{"uuid":"5b33b4df-5884-478d-9f54-f353e75a7834","name":"sherry-zone","isActive":true},{"uuid":"5ae95fb3-4e60-43f7-9975-90fbd2af3f59","name":"zone-sherry01","isActive":true}]}
+2020-10-25 21:41:40,012 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:41:40,018 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:42:25,108 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:42:25,108 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:42:25,108 - logs… - INFO - caseList[]
+2020-10-25 21:42:25,528 - logs… - INFO - {"count":10,"listZoneResponse":[{"uuid":"2bc73a3d-4c92-49da-b323-1142a45dca8c","name":"KVM","isActive":true},{"uuid":"fbd4f7a2-3fb3-4364-982a-224dcf6b91b1","name":"zone-vmware","isActive":false},{"uuid":"667351da-e2f8-4a51-b654-88bbaaefbae0","name":"vmware","isActive":false},{"uuid":"529f1e68-d380-4109-ab68-a85f1d2e7bf7","name":"VMware","isActive":true},{"uuid":"8c27dab6-a275-4d14-8fea-979009be16ad","name":"vsan-01","isActive":true},{"uuid":"50e3733b-d854-414b-9bdb-e9cb5a268c17","name":"KVM1","isActive":false},{"uuid":"7e772dc5-c36c-40de-8a47-4b0de5dc0891","name":"KVM123","isActive":false},{"uuid":"d145f846-b07e-4994-8ce4-950419bfb5ce","name":"zone-hx01","isActive":false},{"uuid":"5b33b4df-5884-478d-9f54-f353e75a7834","name":"sherry-zone","isActive":true},{"uuid":"5ae95fb3-4e60-43f7-9975-90fbd2af3f59","name":"zone-sherry01","isActive":true}]}
+2020-10-25 21:42:25,535 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 21:42:25,539 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:43:53,616 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:43:53,617 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:43:53,617 - logs… - INFO - caseList[]
+2020-10-25 21:43:54,085 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 21:43:54,090 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:44:08,877 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:44:08,877 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:44:08,878 - logs… - INFO - caseList[]
+2020-10-25 21:44:13,910 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 21:44:13,916 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:44:19,575 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:44:19,575 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:44:19,575 - logs… - INFO - caseList[]
+2020-10-25 21:44:20,032 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 21:44:20,036 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:44:26,473 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:44:26,473 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:44:26,473 - logs… - INFO - caseList[]
+2020-10-25 21:44:54,187 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:44:54,187 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:44:54,187 - logs… - INFO - caseList[]
+2020-10-25 21:44:54,652 - logs… - INFO - {
+  "count": 10,
+  "listZoneResponse": [
+    {
+      "isActive": true,
+      "name": "KVM",
+      "uuid": "2bc73a3d-4c92-49da-b323-1142a45dca8c"
+    },
+    {
+      "isActive": false,
+      "name": "zone-vmware",
+      "uuid": "fbd4f7a2-3fb3-4364-982a-224dcf6b91b1"
+    },
+    {
+      "isActive": false,
+      "name": "vmware",
+      "uuid": "667351da-e2f8-4a51-b654-88bbaaefbae0"
+    },
+    {
+      "isActive": true,
+      "name": "VMware",
+      "uuid": "529f1e68-d380-4109-ab68-a85f1d2e7bf7"
+    },
+    {
+      "isActive": true,
+      "name": "vsan-01",
+      "uuid": "8c27dab6-a275-4d14-8fea-979009be16ad"
+    },
+    {
+      "isActive": false,
+      "name": "KVM1",
+      "uuid": "50e3733b-d854-414b-9bdb-e9cb5a268c17"
+    },
+    {
+      "isActive": false,
+      "name": "KVM123",
+      "uuid": "7e772dc5-c36c-40de-8a47-4b0de5dc0891"
+    },
+    {
+      "isActive": false,
+      "name": "zone-hx01",
+      "uuid": "d145f846-b07e-4994-8ce4-950419bfb5ce"
+    },
+    {
+      "isActive": true,
+      "name": "sherry-zone",
+      "uuid": "5b33b4df-5884-478d-9f54-f353e75a7834"
+    },
+    {
+      "isActive": true,
+      "name": "zone-sherry01",
+      "uuid": "5ae95fb3-4e60-43f7-9975-90fbd2af3f59"
+    }
+  ]
+}
+2020-10-25 21:44:54,657 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 21:44:54,660 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:51:55,798 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:51:55,798 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:51:55,798 - logs… - INFO - caseList[]
+2020-10-25 21:51:56,262 - logs… - INFO - <Response [200]>
+2020-10-25 21:51:56,267 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 21:51:56,270 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:52:02,201 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:52:02,201 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:52:02,201 - logs… - INFO - caseList[]
+2020-10-25 21:52:02,643 - logs… - INFO - <Response [200]>
+2020-10-25 21:52:02,648 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 21:52:02,652 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:52:27,007 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:52:27,007 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:52:27,007 - logs… - INFO - caseList[]
+2020-10-25 21:52:27,433 - logs… - INFO - <Response [200]>
+2020-10-25 21:52:27,438 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 21:52:27,441 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:56:09,135 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:56:09,135 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:56:09,135 - logs… - INFO - caseList[]
+2020-10-25 21:56:09,558 - logs… - INFO - {
+  "count": 10,
+  "listZoneResponse": [
+    {
+      "isActive": true,
+      "name": "KVM",
+      "uuid": "2bc73a3d-4c92-49da-b323-1142a45dca8c"
+    },
+    {
+      "isActive": false,
+      "name": "zone-vmware",
+      "uuid": "fbd4f7a2-3fb3-4364-982a-224dcf6b91b1"
+    },
+    {
+      "isActive": false,
+      "name": "vmware",
+      "uuid": "667351da-e2f8-4a51-b654-88bbaaefbae0"
+    },
+    {
+      "isActive": true,
+      "name": "VMware",
+      "uuid": "529f1e68-d380-4109-ab68-a85f1d2e7bf7"
+    },
+    {
+      "isActive": true,
+      "name": "vsan-01",
+      "uuid": "8c27dab6-a275-4d14-8fea-979009be16ad"
+    },
+    {
+      "isActive": false,
+      "name": "KVM1",
+      "uuid": "50e3733b-d854-414b-9bdb-e9cb5a268c17"
+    },
+    {
+      "isActive": false,
+      "name": "KVM123",
+      "uuid": "7e772dc5-c36c-40de-8a47-4b0de5dc0891"
+    },
+    {
+      "isActive": false,
+      "name": "zone-hx01",
+      "uuid": "d145f846-b07e-4994-8ce4-950419bfb5ce"
+    },
+    {
+      "isActive": true,
+      "name": "sherry-zone",
+      "uuid": "5b33b4df-5884-478d-9f54-f353e75a7834"
+    },
+    {
+      "isActive": true,
+      "name": "zone-sherry01",
+      "uuid": "5ae95fb3-4e60-43f7-9975-90fbd2af3f59"
+    }
+  ]
+}
+2020-10-25 21:56:09,563 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 21:56:09,568 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 21:56:19,896 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 21:56:19,896 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 21:56:19,897 - logs… - INFO - caseList[]
+2020-10-25 21:56:20,386 - logs… - INFO - {
+  "error": "Unauthorized",
+  "message": "No message available",
+  "path": "/restapi/zone/listZone",
+  "status": 401,
+  "timestamp": 1603634003089
+}
+2020-10-25 21:56:20,394 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 21:56:20,398 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 22:00:17,349 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 22:00:17,349 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 22:00:17,349 - logs… - INFO - caseList[]
+2020-10-25 22:00:17,730 - logs… - INFO - {
+  "error": "Unauthorized",
+  "message": "No message available",
+  "path": "/restapi/zone/listZone",
+  "status": 401,
+  "timestamp": 1603634240506
+}
+2020-10-25 22:00:17,735 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 22:00:17,739 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 22:00:40,985 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 22:00:40,985 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 22:00:40,985 - logs… - INFO - caseList[]
+2020-10-25 22:00:41,378 - logs… - INFO - {
+  "error": "Unauthorized",
+  "message": "No message available",
+  "path": "/restapi/zone/listZone",
+  "status": 401,
+  "timestamp": 1603634264158
+}
+2020-10-25 22:00:41,383 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 22:00:41,386 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 22:00:47,622 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 22:00:47,622 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 22:00:47,622 - logs… - INFO - caseList[]
+2020-10-25 22:00:48,091 - logs… - INFO - {
+  "error": "Unauthorized",
+  "message": "No message available",
+  "path": "/restapi/zone/listZone",
+  "status": 401,
+  "timestamp": 1603634270869
+}
+2020-10-25 22:01:19,418 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 22:01:19,418 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 22:01:19,418 - logs… - INFO - caseList[]
+2020-10-25 22:01:19,830 - logs… - INFO - {
+  "error": "Unauthorized",
+  "message": "No message available",
+  "path": "/restapi/zone/listZone",
+  "status": 401,
+  "timestamp": 1603634302606
+}
+2020-10-25 22:01:19,837 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 22:01:19,841 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 22:01:27,919 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 22:01:27,919 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 22:01:27,919 - logs… - INFO - caseList[]
+2020-10-25 22:01:28,310 - logs… - INFO - {
+  "error": "Unauthorized",
+  "message": "No message available",
+  "path": "/restapi/zone/listZone",
+  "status": 401,
+  "timestamp": 1603634311087
+}
+2020-10-25 22:01:28,315 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 22:01:28,320 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 22:03:48,990 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 22:03:48,990 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 22:03:48,991 - logs… - INFO - caseList[]
+2020-10-25 22:03:49,820 - logs… - INFO - {
+  "count": 10,
+  "listZoneResponse": [
+    {
+      "isActive": true,
+      "name": "KVM",
+      "uuid": "2bc73a3d-4c92-49da-b323-1142a45dca8c"
+    },
+    {
+      "isActive": false,
+      "name": "zone-vmware",
+      "uuid": "fbd4f7a2-3fb3-4364-982a-224dcf6b91b1"
+    },
+    {
+      "isActive": false,
+      "name": "vmware",
+      "uuid": "667351da-e2f8-4a51-b654-88bbaaefbae0"
+    },
+    {
+      "isActive": true,
+      "name": "VMware",
+      "uuid": "529f1e68-d380-4109-ab68-a85f1d2e7bf7"
+    },
+    {
+      "isActive": true,
+      "name": "vsan-01",
+      "uuid": "8c27dab6-a275-4d14-8fea-979009be16ad"
+    },
+    {
+      "isActive": false,
+      "name": "KVM1",
+      "uuid": "50e3733b-d854-414b-9bdb-e9cb5a268c17"
+    },
+    {
+      "isActive": false,
+      "name": "KVM123",
+      "uuid": "7e772dc5-c36c-40de-8a47-4b0de5dc0891"
+    },
+    {
+      "isActive": false,
+      "name": "zone-hx01",
+      "uuid": "d145f846-b07e-4994-8ce4-950419bfb5ce"
+    },
+    {
+      "isActive": true,
+      "name": "sherry-zone",
+      "uuid": "5b33b4df-5884-478d-9f54-f353e75a7834"
+    },
+    {
+      "isActive": true,
+      "name": "zone-sherry01",
+      "uuid": "5ae95fb3-4e60-43f7-9975-90fbd2af3f59"
+    }
+  ]
+}
+2020-10-25 22:03:49,824 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 22:03:49,827 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 22:04:26,054 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 22:04:26,054 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 22:04:26,054 - logs… - INFO - caseList[]
+2020-10-25 22:04:26,459 - logs… - INFO - {
+  "count": 10,
+  "listZoneResponse": [
+    {
+      "isActive": true,
+      "name": "KVM",
+      "uuid": "2bc73a3d-4c92-49da-b323-1142a45dca8c"
+    },
+    {
+      "isActive": false,
+      "name": "zone-vmware",
+      "uuid": "fbd4f7a2-3fb3-4364-982a-224dcf6b91b1"
+    },
+    {
+      "isActive": false,
+      "name": "vmware",
+      "uuid": "667351da-e2f8-4a51-b654-88bbaaefbae0"
+    },
+    {
+      "isActive": true,
+      "name": "VMware",
+      "uuid": "529f1e68-d380-4109-ab68-a85f1d2e7bf7"
+    },
+    {
+      "isActive": true,
+      "name": "vsan-01",
+      "uuid": "8c27dab6-a275-4d14-8fea-979009be16ad"
+    },
+    {
+      "isActive": false,
+      "name": "KVM1",
+      "uuid": "50e3733b-d854-414b-9bdb-e9cb5a268c17"
+    },
+    {
+      "isActive": false,
+      "name": "KVM123",
+      "uuid": "7e772dc5-c36c-40de-8a47-4b0de5dc0891"
+    },
+    {
+      "isActive": false,
+      "name": "zone-hx01",
+      "uuid": "d145f846-b07e-4994-8ce4-950419bfb5ce"
+    },
+    {
+      "isActive": true,
+      "name": "sherry-zone",
+      "uuid": "5b33b4df-5884-478d-9f54-f353e75a7834"
+    },
+    {
+      "isActive": true,
+      "name": "zone-sherry01",
+      "uuid": "5ae95fb3-4e60-43f7-9975-90fbd2af3f59"
+    }
+  ]
+}
+2020-10-25 22:04:26,464 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-10-25 22:04:26,468 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-10-25 22:07:26,295 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 22:07:26,295 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 22:07:26,295 - logs… - INFO - caseList[]
+2020-10-25 22:07:26,742 - logs… - INFO - {
+  "count": 10,
+  "listZoneResponse": [
+    {
+      "isActive": true,
+      "name": "KVM",
+      "uuid": "2bc73a3d-4c92-49da-b323-1142a45dca8c"
+    },
+    {
+      "isActive": false,
+      "name": "zone-vmware",
+      "uuid": "fbd4f7a2-3fb3-4364-982a-224dcf6b91b1"
+    },
+    {
+      "isActive": false,
+      "name": "vmware",
+      "uuid": "667351da-e2f8-4a51-b654-88bbaaefbae0"
+    },
+    {
+      "isActive": true,
+      "name": "VMware",
+      "uuid": "529f1e68-d380-4109-ab68-a85f1d2e7bf7"
+    },
+    {
+      "isActive": true,
+      "name": "vsan-01",
+      "uuid": "8c27dab6-a275-4d14-8fea-979009be16ad"
+    },
+    {
+      "isActive": false,
+      "name": "KVM1",
+      "uuid": "50e3733b-d854-414b-9bdb-e9cb5a268c17"
+    },
+    {
+      "isActive": false,
+      "name": "KVM123",
+      "uuid": "7e772dc5-c36c-40de-8a47-4b0de5dc0891"
+    },
+    {
+      "isActive": false,
+      "name": "zone-hx01",
+      "uuid": "d145f846-b07e-4994-8ce4-950419bfb5ce"
+    },
+    {
+      "isActive": true,
+      "name": "sherry-zone",
+      "uuid": "5b33b4df-5884-478d-9f54-f353e75a7834"
+    },
+    {
+      "isActive": true,
+      "name": "zone-sherry01",
+      "uuid": "5ae95fb3-4e60-43f7-9975-90fbd2af3f59"
+    }
+  ]
+}
+2020-10-25 22:07:27,067 - logs… - INFO - {
+  "count": 3,
+  "listDiskStateResponse": [
+    {
+      "diskStatus": "ALLOCATED"
+    },
+    {
+      "diskStatus": "DESTROY"
+    },
+    {
+      "diskStatus": "READY"
+    }
+  ]
+}
+2020-10-25 22:07:28,174 - logs… - INFO - {
+  "listZoneStatisticalData": [
+    {
+      "clusterCount": 1,
+      "clusterDisabledCount": 0,
+      "clusterEnabledCount": 1,
+      "createdBy": 0,
+      "createdTime": 1542389707,
+      "defaultZone": true,
+      "domainId": null,
+      "hostAlertCount": 0,
+      "hostCount": 4,
+      "hostDisconnectedCount": 1,
+      "hostMalfunctionCount": 4,
+      "hostPowerOffCount": 4,
+      "hostPowerOnCount": 0,
+      "hostUpCount": 3,
+      "id": 1,
+      "isActive": true,
+      "name": "KVM",
+      "podCount": 1,
+      "regionId": null,
+      "status": "ENABLED",
+      "updatedBy": null,
+      "updatedTime": 1602780300,
+      "uuid": "2bc73a3d-4c92-49da-b323-1142a45dca8c",
+      "version": null,
+      "vmCount": 196,
+      "vmMalfunctionCount": 0,
+      "vmRunningCount": 56,
+      "vmStoppedCount": 140
+    },
+    {
+      "clusterCount": 0,
+      "clusterDisabledCount": 0,
+      "clusterEnabledCount": 0,
+      "createdBy": 0,
+      "createdTime": 1566802703,
+      "defaultZone": false,
+      "domainId": null,
+      "hostAlertCount": 0,
+      "hostCount": 0,
+      "hostDisconnectedCount": 0,
+      "hostMalfunctionCount": 0,
+      "hostPowerOffCount": 0,
+      "hostPowerOnCount": 0,
+      "hostUpCount": 0,
+      "id": 2,
+      "isActive": false,
+      "name": "zone-vmware",
+      "podCount": 0,
+      "regionId": null,
+      "status": "DISABLED",
+      "updatedBy": 0,
+      "updatedTime": 1584602028,
+      "uuid": "fbd4f7a2-3fb3-4364-982a-224dcf6b91b1",
+      "version": null,
+      "vmCount": 0,
+      "vmMalfunctionCount": 0,
+      "vmRunningCount": 0,
+      "vmStoppedCount": 0
+    },
+    {
+      "clusterCount": 0,
+      "clusterDisabledCount": 0,
+      "clusterEnabledCount": 0,
+      "createdBy": 0,
+      "createdTime": 1584603201,
+      "defaultZone": false,
+      "domainId": null,
+      "hostAlertCount": 0,
+      "hostCount": 0,
+      "hostDisconnectedCount": 0,
+      "hostMalfunctionCount": 0,
+      "hostPowerOffCount": 0,
+      "hostPowerOnCount": 0,
+      "hostUpCount": 0,
+      "id": 3,
+      "isActive": false,
+      "name": "vmware",
+      "podCount": 0,
+      "regionId": null,
+      "status": "DISABLED",
+      "updatedBy": 0,
+      "updatedTime": 1584615167,
+      "uuid": "667351da-e2f8-4a51-b654-88bbaaefbae0",
+      "version": null,
+      "vmCount": 0,
+      "vmMalfunctionCount": 0,
+      "vmRunningCount": 0,
+      "vmStoppedCount": 0
+    },
+    {
+      "clusterCount": 1,
+      "clusterDisabledCount": 0,
+      "clusterEnabledCount": 1,
+      "createdBy": 0,
+      "createdTime": 1584617614,
+      "defaultZone": false,
+      "domainId": null,
+      "hostAlertCount": 0,
+      "hostCount": 2,
+      "hostDisconnectedCount": 2,
+      "hostMalfunctionCount": 2,
+      "hostPowerOffCount": 2,
+      "hostPowerOnCount": 0,
+      "hostUpCount": 0,
+      "id": 4,
+      "isActive": true,
+      "name": "VMware",
+      "podCount": 1,
+      "regionId": null,
+      "status": "DISABLED",
+      "updatedBy": 0,
+      "updatedTime": 1602304195,
+      "uuid": "529f1e68-d380-4109-ab68-a85f1d2e7bf7",
+      "version": null,
+      "vmCount": 13,
+      "vmMalfunctionCount": 0,
+      "vmRunningCount": 8,
+      "vmStoppedCount": 5
+    },
+    {
+      "clusterCount": 1,
+      "clusterDisabledCount": 0,
+      "clusterEnabledCount": 1,
+      "createdBy": 0,
+      "createdTime": 1586082472,
+      "defaultZone": false,
+      "domainId": null,
+      "hostAlertCount": 0,
+      "hostCount": 3,
+      "hostDisconnectedCount": 0,
+      "hostMalfunctionCount": 3,
+      "hostPowerOffCount": 3,
+      "hostPowerOnCount": 0,
+      "hostUpCount": 3,
+      "id": 5,
+      "isActive": true,
+      "name": "vsan-01",
+      "podCount": 1,
+      "regionId": null,
+      "status": "DISABLED",
+      "updatedBy": 0,
+      "updatedTime": 1602481246,
+      "uuid": "8c27dab6-a275-4d14-8fea-979009be16ad",
+      "version": null,
+      "vmCount": 0,
+      "vmMalfunctionCount": 0,
+      "vmRunningCount": 0,
+      "vmStoppedCount": 0
+    },
+    {
+      "clusterCount": 0,
+      "clusterDisabledCount": 0,
+      "clusterEnabledCount": 0,
+      "createdBy": 0,
+      "createdTime": 1590736368,
+      "defaultZone": false,
+      "domainId": null,
+      "hostAlertCount": 0,
+      "hostCount": 0,
+      "hostDisconnectedCount": 0,
+      "hostMalfunctionCount": 0,
+      "hostPowerOffCount": 0,
+      "hostPowerOnCount": 0,
+      "hostUpCount": 0,
+      "id": 8,
+      "isActive": false,
+      "name": "KVM1",
+      "podCount": 0,
+      "regionId": null,
+      "status": "DISABLED",
+      "updatedBy": 0,
+      "updatedTime": 1595474888,
+      "uuid": "50e3733b-d854-414b-9bdb-e9cb5a268c17",
+      "version": null,
+      "vmCount": 0,
+      "vmMalfunctionCount": 0,
+      "vmRunningCount": 0,
+      "vmStoppedCount": 0
+    },
+    {
+      "clusterCount": 0,
+      "clusterDisabledCount": 0,
+      "clusterEnabledCount": 0,
+      "createdBy": 0,
+      "createdTime": 1590736368,
+      "defaultZone": false,
+      "domainId": null,
+      "hostAlertCount": 0,
+      "hostCount": 0,
+      "hostDisconnectedCount": 0,
+      "hostMalfunctionCount": 0,
+      "hostPowerOffCount": 0,
+      "hostPowerOnCount": 0,
+      "hostUpCount": 0,
+      "id": 9,
+      "isActive": false,
+      "name": "KVM123",
+      "podCount": 0,
+      "regionId": null,
+      "status": "DISABLED",
+      "updatedBy": 0,
+      "updatedTime": 1595474867,
+      "uuid": "7e772dc5-c36c-40de-8a47-4b0de5dc0891",
+      "version": null,
+      "vmCount": 0,
+      "vmMalfunctionCount": 0,
+      "vmRunningCount": 0,
+      "vmStoppedCount": 0
+    },
+    {
+      "clusterCount": 0,
+      "clusterDisabledCount": 0,
+      "clusterEnabledCount": 0,
+      "createdBy": 0,
+      "createdTime": 1598925928,
+      "defaultZone": false,
+      "domainId": null,
+      "hostAlertCount": 0,
+      "hostCount": 0,
+      "hostDisconnectedCount": 0,
+      "hostMalfunctionCount": 0,
+      "hostPowerOffCount": 0,
+      "hostPowerOnCount": 0,
+      "hostUpCount": 0,
+      "id": 10,
+      "isActive": false,
+      "name": "zone-hx01",
+      "podCount": 0,
+      "regionId": null,
+      "status": "DISABLED",
+      "updatedBy": 0,
+      "updatedTime": 1600326746,
+      "uuid": "d145f846-b07e-4994-8ce4-950419bfb5ce",
+      "version": null,
+      "vmCount": 0,
+      "vmMalfunctionCount": 0,
+      "vmRunningCount": 0,
+      "vmStoppedCount": 0
+    },
+    {
+      "clusterCount": 0,
+      "clusterDisabledCount": 0,
+      "clusterEnabledCount": 0,
+      "createdBy": 0,
+      "createdTime": 1598957015,
+      "defaultZone": false,
+      "domainId": null,
+      "hostAlertCount": 0,
+      "hostCount": 0,
+      "hostDisconnectedCount": 0,
+      "hostMalfunctionCount": 0,
+      "hostPowerOffCount": 0,
+      "hostPowerOnCount": 0,
+      "hostUpCount": 0,
+      "id": 11,
+      "isActive": true,
+      "name": "sherry-zone",
+      "podCount": 1,
+      "regionId": null,
+      "status": "DISABLED",
+      "updatedBy": null,
+      "updatedTime": 1601300704,
+      "uuid": "5b33b4df-5884-478d-9f54-f353e75a7834",
+      "version": null,
+      "vmCount": 0,
+      "vmMalfunctionCount": 0,
+      "vmRunningCount": 0,
+      "vmStoppedCount": 0
+    },
+    {
+      "clusterCount": 0,
+      "clusterDisabledCount": 0,
+      "clusterEnabledCount": 0,
+      "createdBy": 0,
+      "createdTime": 1598957235,
+      "defaultZone": false,
+      "domainId": null,
+      "hostAlertCount": 0,
+      "hostCount": 0,
+      "hostDisconnectedCount": 0,
+      "hostMalfunctionCount": 0,
+      "hostPowerOffCount": 0,
+      "hostPowerOnCount": 0,
+      "hostUpCount": 0,
+      "id": 12,
+      "isActive": true,
+      "name": "zone-sherry01",
+      "podCount": 0,
+      "regionId": null,
+      "status": "DISABLED",
+      "updatedBy": null,
+      "updatedTime": 1601300705,
+      "uuid": "5ae95fb3-4e60-43f7-9975-90fbd2af3f59",
+      "version": null,
+      "vmCount": 0,
+      "vmMalfunctionCount": 0,
+      "vmRunningCount": 0,
+      "vmStoppedCount": 0
+    }
+  ]
+}
+2020-10-25 22:07:28,567 - logs… - INFO - {
+  "error": "Not Found",
+  "message": "No message available",
+  "path": "/restapi/zone/listZoneStatisticalDetailedDat",
+  "status": 404,
+  "timestamp": 1603634671284
+}
+2020-10-25 22:09:49,758 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 22:09:49,758 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 22:09:49,758 - logs… - INFO - caseList[]
+2020-10-25 22:09:50,342 - logs… - INFO - {
+  "count": 10,
+  "listZoneResponse": [
+    {
+      "isActive": true,
+      "name": "KVM",
+      "uuid": "2bc73a3d-4c92-49da-b323-1142a45dca8c"
+    },
+    {
+      "isActive": false,
+      "name": "zone-vmware",
+      "uuid": "fbd4f7a2-3fb3-4364-982a-224dcf6b91b1"
+    },
+    {
+      "isActive": false,
+      "name": "vmware",
+      "uuid": "667351da-e2f8-4a51-b654-88bbaaefbae0"
+    },
+    {
+      "isActive": true,
+      "name": "VMware",
+      "uuid": "529f1e68-d380-4109-ab68-a85f1d2e7bf7"
+    },
+    {
+      "isActive": true,
+      "name": "vsan-01",
+      "uuid": "8c27dab6-a275-4d14-8fea-979009be16ad"
+    },
+    {
+      "isActive": false,
+      "name": "KVM1",
+      "uuid": "50e3733b-d854-414b-9bdb-e9cb5a268c17"
+    },
+    {
+      "isActive": false,
+      "name": "KVM123",
+      "uuid": "7e772dc5-c36c-40de-8a47-4b0de5dc0891"
+    },
+    {
+      "isActive": false,
+      "name": "zone-hx01",
+      "uuid": "d145f846-b07e-4994-8ce4-950419bfb5ce"
+    },
+    {
+      "isActive": true,
+      "name": "sherry-zone",
+      "uuid": "5b33b4df-5884-478d-9f54-f353e75a7834"
+    },
+    {
+      "isActive": true,
+      "name": "zone-sherry01",
+      "uuid": "5ae95fb3-4e60-43f7-9975-90fbd2af3f59"
+    }
+  ]
+}
+2020-10-25 22:09:52,556 - logs… - INFO - {
+  "count": 3,
+  "listDiskStateResponse": [
+    {
+      "diskStatus": "ALLOCATED"
+    },
+    {
+      "diskStatus": "DESTROY"
+    },
+    {
+      "diskStatus": "READY"
+    }
+  ]
+}
+2020-10-25 22:09:54,058 - logs… - INFO - {
+  "listZoneStatisticalData": [
+    {
+      "clusterCount": 1,
+      "clusterDisabledCount": 0,
+      "clusterEnabledCount": 1,
+      "createdBy": 0,
+      "createdTime": 1542389707,
+      "defaultZone": true,
+      "domainId": null,
+      "hostAlertCount": 0,
+      "hostCount": 4,
+      "hostDisconnectedCount": 1,
+      "hostMalfunctionCount": 4,
+      "hostPowerOffCount": 4,
+      "hostPowerOnCount": 0,
+      "hostUpCount": 3,
+      "id": 1,
+      "isActive": true,
+      "name": "KVM",
+      "podCount": 1,
+      "regionId": null,
+      "status": "ENABLED",
+      "updatedBy": null,
+      "updatedTime": 1602780300,
+      "uuid": "2bc73a3d-4c92-49da-b323-1142a45dca8c",
+      "version": null,
+      "vmCount": 196,
+      "vmMalfunctionCount": 0,
+      "vmRunningCount": 56,
+      "vmStoppedCount": 140
+    },
+    {
+      "clusterCount": 0,
+      "clusterDisabledCount": 0,
+      "clusterEnabledCount": 0,
+      "createdBy": 0,
+      "createdTime": 1566802703,
+      "defaultZone": false,
+      "domainId": null,
+      "hostAlertCount": 0,
+      "hostCount": 0,
+      "hostDisconnectedCount": 0,
+      "hostMalfunctionCount": 0,
+      "hostPowerOffCount": 0,
+      "hostPowerOnCount": 0,
+      "hostUpCount": 0,
+      "id": 2,
+      "isActive": false,
+      "name": "zone-vmware",
+      "podCount": 0,
+      "regionId": null,
+      "status": "DISABLED",
+      "updatedBy": 0,
+      "updatedTime": 1584602028,
+      "uuid": "fbd4f7a2-3fb3-4364-982a-224dcf6b91b1",
+      "version": null,
+      "vmCount": 0,
+      "vmMalfunctionCount": 0,
+      "vmRunningCount": 0,
+      "vmStoppedCount": 0
+    },
+    {
+      "clusterCount": 0,
+      "clusterDisabledCount": 0,
+      "clusterEnabledCount": 0,
+      "createdBy": 0,
+      "createdTime": 1584603201,
+      "defaultZone": false,
+      "domainId": null,
+      "hostAlertCount": 0,
+      "hostCount": 0,
+      "hostDisconnectedCount": 0,
+      "hostMalfunctionCount": 0,
+      "hostPowerOffCount": 0,
+      "hostPowerOnCount": 0,
+      "hostUpCount": 0,
+      "id": 3,
+      "isActive": false,
+      "name": "vmware",
+      "podCount": 0,
+      "regionId": null,
+      "status": "DISABLED",
+      "updatedBy": 0,
+      "updatedTime": 1584615167,
+      "uuid": "667351da-e2f8-4a51-b654-88bbaaefbae0",
+      "version": null,
+      "vmCount": 0,
+      "vmMalfunctionCount": 0,
+      "vmRunningCount": 0,
+      "vmStoppedCount": 0
+    },
+    {
+      "clusterCount": 1,
+      "clusterDisabledCount": 0,
+      "clusterEnabledCount": 1,
+      "createdBy": 0,
+      "createdTime": 1584617614,
+      "defaultZone": false,
+      "domainId": null,
+      "hostAlertCount": 0,
+      "hostCount": 2,
+      "hostDisconnectedCount": 2,
+      "hostMalfunctionCount": 2,
+      "hostPowerOffCount": 2,
+      "hostPowerOnCount": 0,
+      "hostUpCount": 0,
+      "id": 4,
+      "isActive": true,
+      "name": "VMware",
+      "podCount": 1,
+      "regionId": null,
+      "status": "DISABLED",
+      "updatedBy": 0,
+      "updatedTime": 1602304195,
+      "uuid": "529f1e68-d380-4109-ab68-a85f1d2e7bf7",
+      "version": null,
+      "vmCount": 13,
+      "vmMalfunctionCount": 0,
+      "vmRunningCount": 8,
+      "vmStoppedCount": 5
+    },
+    {
+      "clusterCount": 1,
+      "clusterDisabledCount": 0,
+      "clusterEnabledCount": 1,
+      "createdBy": 0,
+      "createdTime": 1586082472,
+      "defaultZone": false,
+      "domainId": null,
+      "hostAlertCount": 0,
+      "hostCount": 3,
+      "hostDisconnectedCount": 0,
+      "hostMalfunctionCount": 3,
+      "hostPowerOffCount": 3,
+      "hostPowerOnCount": 0,
+      "hostUpCount": 3,
+      "id": 5,
+      "isActive": true,
+      "name": "vsan-01",
+      "podCount": 1,
+      "regionId": null,
+      "status": "DISABLED",
+      "updatedBy": 0,
+      "updatedTime": 1602481246,
+      "uuid": "8c27dab6-a275-4d14-8fea-979009be16ad",
+      "version": null,
+      "vmCount": 0,
+      "vmMalfunctionCount": 0,
+      "vmRunningCount": 0,
+      "vmStoppedCount": 0
+    },
+    {
+      "clusterCount": 0,
+      "clusterDisabledCount": 0,
+      "clusterEnabledCount": 0,
+      "createdBy": 0,
+      "createdTime": 1590736368,
+      "defaultZone": false,
+      "domainId": null,
+      "hostAlertCount": 0,
+      "hostCount": 0,
+      "hostDisconnectedCount": 0,
+      "hostMalfunctionCount": 0,
+      "hostPowerOffCount": 0,
+      "hostPowerOnCount": 0,
+      "hostUpCount": 0,
+      "id": 8,
+      "isActive": false,
+      "name": "KVM1",
+      "podCount": 0,
+      "regionId": null,
+      "status": "DISABLED",
+      "updatedBy": 0,
+      "updatedTime": 1595474888,
+      "uuid": "50e3733b-d854-414b-9bdb-e9cb5a268c17",
+      "version": null,
+      "vmCount": 0,
+      "vmMalfunctionCount": 0,
+      "vmRunningCount": 0,
+      "vmStoppedCount": 0
+    },
+    {
+      "clusterCount": 0,
+      "clusterDisabledCount": 0,
+      "clusterEnabledCount": 0,
+      "createdBy": 0,
+      "createdTime": 1590736368,
+      "defaultZone": false,
+      "domainId": null,
+      "hostAlertCount": 0,
+      "hostCount": 0,
+      "hostDisconnectedCount": 0,
+      "hostMalfunctionCount": 0,
+      "hostPowerOffCount": 0,
+      "hostPowerOnCount": 0,
+      "hostUpCount": 0,
+      "id": 9,
+      "isActive": false,
+      "name": "KVM123",
+      "podCount": 0,
+      "regionId": null,
+      "status": "DISABLED",
+      "updatedBy": 0,
+      "updatedTime": 1595474867,
+      "uuid": "7e772dc5-c36c-40de-8a47-4b0de5dc0891",
+      "version": null,
+      "vmCount": 0,
+      "vmMalfunctionCount": 0,
+      "vmRunningCount": 0,
+      "vmStoppedCount": 0
+    },
+    {
+      "clusterCount": 0,
+      "clusterDisabledCount": 0,
+      "clusterEnabledCount": 0,
+      "createdBy": 0,
+      "createdTime": 1598925928,
+      "defaultZone": false,
+      "domainId": null,
+      "hostAlertCount": 0,
+      "hostCount": 0,
+      "hostDisconnectedCount": 0,
+      "hostMalfunctionCount": 0,
+      "hostPowerOffCount": 0,
+      "hostPowerOnCount": 0,
+      "hostUpCount": 0,
+      "id": 10,
+      "isActive": false,
+      "name": "zone-hx01",
+      "podCount": 0,
+      "regionId": null,
+      "status": "DISABLED",
+      "updatedBy": 0,
+      "updatedTime": 1600326746,
+      "uuid": "d145f846-b07e-4994-8ce4-950419bfb5ce",
+      "version": null,
+      "vmCount": 0,
+      "vmMalfunctionCount": 0,
+      "vmRunningCount": 0,
+      "vmStoppedCount": 0
+    },
+    {
+      "clusterCount": 0,
+      "clusterDisabledCount": 0,
+      "clusterEnabledCount": 0,
+      "createdBy": 0,
+      "createdTime": 1598957015,
+      "defaultZone": false,
+      "domainId": null,
+      "hostAlertCount": 0,
+      "hostCount": 0,
+      "hostDisconnectedCount": 0,
+      "hostMalfunctionCount": 0,
+      "hostPowerOffCount": 0,
+      "hostPowerOnCount": 0,
+      "hostUpCount": 0,
+      "id": 11,
+      "isActive": true,
+      "name": "sherry-zone",
+      "podCount": 1,
+      "regionId": null,
+      "status": "DISABLED",
+      "updatedBy": null,
+      "updatedTime": 1601300704,
+      "uuid": "5b33b4df-5884-478d-9f54-f353e75a7834",
+      "version": null,
+      "vmCount": 0,
+      "vmMalfunctionCount": 0,
+      "vmRunningCount": 0,
+      "vmStoppedCount": 0
+    },
+    {
+      "clusterCount": 0,
+      "clusterDisabledCount": 0,
+      "clusterEnabledCount": 0,
+      "createdBy": 0,
+      "createdTime": 1598957235,
+      "defaultZone": false,
+      "domainId": null,
+      "hostAlertCount": 0,
+      "hostCount": 0,
+      "hostDisconnectedCount": 0,
+      "hostMalfunctionCount": 0,
+      "hostPowerOffCount": 0,
+      "hostPowerOnCount": 0,
+      "hostUpCount": 0,
+      "id": 12,
+      "isActive": true,
+      "name": "zone-sherry01",
+      "podCount": 0,
+      "regionId": null,
+      "status": "DISABLED",
+      "updatedBy": null,
+      "updatedTime": 1601300705,
+      "uuid": "5ae95fb3-4e60-43f7-9975-90fbd2af3f59",
+      "version": null,
+      "vmCount": 0,
+      "vmMalfunctionCount": 0,
+      "vmRunningCount": 0,
+      "vmStoppedCount": 0
+    }
+  ]
+}
+2020-10-25 22:14:20,568 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 22:14:20,568 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 22:14:20,568 - logs… - INFO - caseList[]
+2020-10-25 22:14:21,038 - logs… - INFO - <Response [200]>
+2020-10-25 22:14:21,412 - logs… - INFO - <Response [200]>
+2020-10-25 22:14:22,244 - logs… - INFO - <Response [200]>
+2020-10-25 22:14:22,668 - logs… - INFO - <Response [404]>
+2020-10-25 22:15:52,582 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 22:15:52,583 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 22:15:52,583 - logs… - INFO - caseList[]
+2020-10-25 22:15:53,071 - logs… - INFO - <Response [200]>
+2020-10-25 22:15:53,376 - logs… - INFO - <Response [200]>
+2020-10-25 22:15:54,194 - logs… - INFO - <Response [200]>
+2020-10-25 22:15:54,611 - logs… - INFO - <Response [404]>
+2020-10-25 22:16:24,188 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 22:16:24,189 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 22:16:24,189 - logs… - INFO - caseList[]
+2020-10-25 22:16:24,627 - logs… - INFO - <Response [200]>
+2020-10-25 22:16:24,974 - logs… - INFO - <Response [200]>
+2020-10-25 22:16:25,770 - logs… - INFO - <Response [200]>
+2020-10-25 22:16:26,104 - logs… - INFO - <Response [404]>
+2020-10-25 22:17:21,556 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 22:17:21,556 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 22:17:21,556 - logs… - INFO - caseList[]
+2020-10-25 22:17:21,982 - logs… - INFO - <Response [200]>
+2020-10-25 22:17:22,337 - logs… - INFO - <Response [200]>
+2020-10-25 22:17:23,219 - logs… - INFO - <Response [200]>
+2020-10-25 22:17:23,610 - logs… - INFO - <Response [404]>
+2020-10-25 22:17:44,315 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 22:17:44,316 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 22:17:44,316 - logs… - INFO - caseList[]
+2020-10-25 22:17:44,728 - logs… - INFO - <Response [200]>
+2020-10-25 22:17:45,093 - logs… - INFO - <Response [200]>
+2020-10-25 22:17:45,848 - logs… - INFO - <Response [200]>
+2020-10-25 22:17:46,232 - logs… - INFO - <Response [404]>
+2020-10-25 22:19:43,809 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 22:19:43,809 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 22:19:43,809 - logs… - INFO - caseList[]
+2020-10-25 22:19:44,365 - logs… - INFO - <Response [200]>
+2020-10-25 22:19:46,938 - logs… - INFO - <Response [200]>
+2020-10-25 22:19:48,525 - logs… - INFO - <Response [200]>
+2020-10-25 22:19:49,282 - logs… - INFO - <Response [404]>
+2020-10-25 22:21:55,912 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 22:21:55,912 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 22:21:55,912 - logs… - INFO - caseList[]
+2020-10-25 22:21:56,349 - logs… - INFO - <Response [200]>
+2020-10-25 22:21:56,700 - logs… - INFO - <Response [200]>
+2020-10-25 22:21:57,447 - logs… - INFO - <Response [200]>
+2020-10-25 22:21:57,811 - logs… - INFO - <Response [404]>
+2020-10-25 22:22:02,487 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 22:22:02,487 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 22:22:02,487 - logs… - INFO - caseList[]
+2020-10-25 22:22:02,936 - logs… - INFO - <Response [200]>
+2020-10-25 22:22:03,341 - logs… - INFO - <Response [200]>
+2020-10-25 22:22:04,170 - logs… - INFO - <Response [200]>
+2020-10-25 22:22:04,511 - logs… - INFO - <Response [404]>
+2020-10-25 22:22:38,092 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 22:22:38,092 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 22:22:38,092 - logs… - INFO - caseList[]
+2020-10-25 22:22:40,481 - logs… - INFO - <Response [200]>
+2020-10-25 22:22:41,116 - logs… - INFO - <Response [200]>
+2020-10-25 22:22:42,197 - logs… - INFO - <Response [200]>
+2020-10-25 22:23:01,417 - logs… - INFO - <Response [404]>
+2020-10-25 22:23:57,931 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 22:23:57,932 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 22:23:57,932 - logs… - INFO - caseList[]
+2020-10-25 22:23:58,437 - logs… - INFO - <Response [200]>
+2020-10-25 22:23:58,788 - logs… - INFO - <Response [200]>
+2020-10-25 22:23:59,607 - logs… - INFO - <Response [200]>
+2020-10-25 22:23:59,966 - logs… - INFO - <Response [404]>
+2020-10-25 22:24:18,178 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 22:24:18,178 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 22:24:18,178 - logs… - INFO - caseList[]
+2020-10-25 22:24:18,640 - logs… - INFO - <Response [200]>
+2020-10-25 22:24:18,984 - logs… - INFO - <Response [200]>
+2020-10-25 22:24:19,785 - logs… - INFO - <Response [200]>
+2020-10-25 22:24:20,568 - logs… - INFO - <Response [200]>
+2020-10-25 22:42:31,168 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 22:42:31,169 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 22:42:31,169 - logs… - INFO - caseList[]
+2020-10-25 22:42:31,696 - logs… - INFO - <Response [200]>
+2020-10-25 22:42:32,054 - logs… - INFO - <Response [200]>
+2020-10-25 22:42:32,810 - logs… - INFO - <Response [200]>
+2020-10-25 22:42:33,528 - logs… - INFO - <Response [200]>
+2020-10-25 22:43:25,623 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 22:43:25,623 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 22:43:25,623 - logs… - INFO - caseList[]
+2020-10-25 22:43:26,156 - logs… - INFO - <Response [200]>
+2020-10-25 22:43:26,496 - logs… - INFO - <Response [200]>
+2020-10-25 22:43:27,287 - logs… - INFO - <Response [200]>
+2020-10-25 22:43:28,005 - logs… - INFO - <Response [200]>
+2020-10-25 22:44:37,333 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 22:44:37,333 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 22:44:37,333 - logs… - INFO - caseList[]
+2020-10-25 22:44:37,751 - logs… - INFO - <Response [200]>
+2020-10-25 22:44:38,094 - logs… - INFO - <Response [200]>
+2020-10-25 22:44:38,801 - logs… - INFO - <Response [200]>
+2020-10-25 22:44:39,481 - logs… - INFO - <Response [200]>
+2020-10-25 22:47:28,091 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 22:47:28,092 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 22:47:28,092 - logs… - INFO - caseList[]
+2020-10-25 22:47:28,530 - logs… - INFO - <Response [200]>
+2020-10-25 22:47:28,871 - logs… - INFO - <Response [200]>
+2020-10-25 22:47:29,668 - logs… - INFO - <Response [200]>
+2020-10-25 22:47:30,429 - logs… - INFO - <Response [200]>
+2020-10-25 22:53:04,036 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 22:53:04,036 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 22:53:04,037 - logs… - INFO - caseList[]
+2020-10-25 22:53:04,493 - logs… - INFO - <Response [200]>
+2020-10-25 22:53:04,821 - logs… - INFO - <Response [200]>
+2020-10-25 22:53:05,644 - logs… - INFO - <Response [200]>
+2020-10-25 22:53:06,359 - logs… - INFO - <Response [200]>
+2020-10-25 22:57:15,249 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 22:57:15,250 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 22:57:15,250 - logs… - INFO - caseList[]
+2020-10-25 22:57:15,726 - logs… - INFO - <Response [200]>
+2020-10-25 22:57:16,104 - logs… - INFO - <Response [200]>
+2020-10-25 22:57:17,058 - logs… - INFO - <Response [200]>
+2020-10-25 22:57:17,926 - logs… - INFO - <Response [200]>
+2020-10-25 22:57:18,343 - logs… - INFO - <Response [404]>
+2020-10-25 22:59:13,416 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 22:59:13,416 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 22:59:13,416 - logs… - INFO - caseList[]
+2020-10-25 22:59:13,878 - logs… - INFO - <Response [200]>
+2020-10-25 22:59:14,182 - logs… - INFO - <Response [200]>
+2020-10-25 22:59:15,004 - logs… - INFO - <Response [200]>
+2020-10-25 22:59:15,721 - logs… - INFO - <Response [200]>
+2020-10-25 23:06:10,009 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 23:06:10,009 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 23:06:10,009 - logs… - INFO - caseList[]
+2020-10-25 23:06:10,559 - logs… - INFO - <Response [200]>
+2020-10-25 23:06:10,916 - logs… - INFO - <Response [200]>
+2020-10-25 23:06:11,738 - logs… - INFO - <Response [200]>
+2020-10-25 23:06:12,524 - logs… - INFO - <Response [200]>
+2020-10-25 23:06:18,402 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 23:06:18,402 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 23:06:18,402 - logs… - INFO - caseList[]
+2020-10-25 23:06:18,831 - logs… - INFO - <Response [200]>
+2020-10-25 23:06:19,164 - logs… - INFO - <Response [200]>
+2020-10-25 23:06:20,011 - logs… - INFO - <Response [200]>
+2020-10-25 23:06:20,783 - logs… - INFO - <Response [200]>
+2020-10-25 23:06:33,142 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 23:06:33,142 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 23:06:33,143 - logs… - INFO - caseList[]
+2020-10-25 23:06:33,533 - logs… - INFO - <Response [200]>
+2020-10-25 23:06:33,877 - logs… - INFO - <Response [200]>
+2020-10-25 23:06:34,608 - logs… - INFO - <Response [200]>
+2020-10-25 23:06:34,945 - logs… - INFO - <Response [412]>
+2020-10-25 23:06:39,488 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 23:06:39,488 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 23:06:39,488 - logs… - INFO - caseList[]
+2020-10-25 23:06:40,000 - logs… - INFO - <Response [200]>
+2020-10-25 23:06:40,319 - logs… - INFO - <Response [200]>
+2020-10-25 23:06:41,124 - logs… - INFO - <Response [200]>
+2020-10-25 23:06:41,774 - logs… - INFO - <Response [200]>
+2020-10-25 23:11:14,537 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 23:11:14,538 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 23:11:14,538 - logs… - INFO - caseList[]
+2020-10-25 23:11:15,016 - logs… - INFO - <Response [200]>
+2020-10-25 23:11:15,340 - logs… - INFO - <Response [200]>
+2020-10-25 23:11:16,108 - logs… - INFO - <Response [200]>
+2020-10-25 23:11:16,892 - logs… - INFO - <Response [200]>
+2020-10-25 23:14:59,391 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 23:14:59,391 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 23:14:59,391 - logs… - INFO - caseList[]
+2020-10-25 23:17:01,245 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 23:17:01,245 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 23:17:01,245 - logs… - INFO - caseList[]
+2020-10-25 23:17:35,436 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 23:17:35,437 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 23:17:35,437 - logs… - INFO - caseList[]
+2020-10-25 23:17:49,445 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 23:17:49,445 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 23:17:49,445 - logs… - INFO - caseList[]
+2020-10-25 23:18:08,930 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 23:18:08,930 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 23:18:08,930 - logs… - INFO - caseList[]
+2020-10-25 23:18:26,990 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 23:18:26,990 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 23:18:26,990 - logs… - INFO - caseList[]
+2020-10-25 23:18:50,927 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 23:18:50,928 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 23:18:50,928 - logs… - INFO - caseList[]
+2020-10-25 23:18:56,291 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 23:18:56,291 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 23:18:56,291 - logs… - INFO - caseList[]
+2020-10-25 23:19:39,175 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 23:19:39,175 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 23:19:39,175 - logs… - INFO - caseList[]
+2020-10-25 23:19:43,126 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 23:19:43,127 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 23:19:43,127 - logs… - INFO - caseList[]
+2020-10-25 23:19:45,794 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 23:19:45,794 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 23:19:45,794 - logs… - INFO - caseList[]
+2020-10-25 23:19:48,535 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 23:19:48,536 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 23:19:48,536 - logs… - INFO - caseList[]
+2020-10-25 23:21:25,341 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 23:21:25,341 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 23:21:25,341 - logs… - INFO - caseList[]
+2020-10-25 23:21:36,181 - logs… - INFO - <Response [200]>
+2020-10-25 23:22:11,524 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-25 23:22:11,524 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-25 23:22:11,524 - logs… - INFO - caseList[]
+2020-10-25 23:22:11,991 - logs… - INFO - <Response [200]>
+2020-10-25 23:22:12,353 - logs… - INFO - <Response [200]>
+2020-10-25 23:22:13,112 - logs… - INFO - <Response [200]>
+2020-10-25 23:22:13,831 - logs… - INFO - <Response [200]>
+2020-10-26 09:23:55,118 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-26 09:23:55,119 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-26 09:23:55,119 - logs… - INFO - caseList[]
+2020-10-26 09:23:55,586 - logs… - INFO - <Response [200]>
+2020-10-26 09:23:55,874 - logs… - INFO - <Response [200]>
+2020-10-26 09:23:56,582 - logs… - INFO - <Response [200]>
+2020-10-26 09:23:57,243 - logs… - INFO - <Response [200]>
+2020-10-26 09:31:24,456 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-26 09:31:24,456 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-26 09:31:24,456 - logs… - INFO - caseList[]
+2020-10-26 09:31:39,599 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-26 09:31:39,599 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-26 09:31:39,599 - logs… - INFO - caseList[]
+2020-10-26 09:31:58,747 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-26 09:31:58,747 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-26 09:31:58,747 - logs… - INFO - caseList[]
+2020-10-26 09:31:59,152 - logs… - INFO - <Response [200]>
+2020-10-26 09:31:59,438 - logs… - INFO - <Response [200]>
+2020-10-26 09:32:00,164 - logs… - INFO - <Response [200]>
+2020-10-26 09:32:00,935 - logs… - INFO - <Response [200]>
+2020-10-26 09:42:10,688 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-26 09:42:10,688 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-26 09:42:10,688 - logs… - INFO - caseList[]
+2020-10-26 09:42:11,075 - logs… - INFO - <Response [200]>
+2020-10-26 09:42:11,330 - logs… - INFO - <Response [200]>
+2020-10-26 09:42:12,059 - logs… - INFO - <Response [200]>
+2020-10-26 09:42:12,674 - logs… - INFO - <Response [200]>
+2020-10-26 10:29:46,373 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-26 10:29:46,374 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-26 10:29:46,374 - logs… - INFO - caseList[]
+2020-10-26 10:29:46,916 - logs… - INFO - <Response [200]>
+2020-10-26 10:29:47,263 - logs… - INFO - <Response [200]>
+2020-10-26 10:29:47,914 - logs… - INFO - <Response [200]>
+2020-10-26 10:29:48,614 - logs… - INFO - <Response [200]>
+2020-10-26 10:31:27,487 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-26 10:31:27,487 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-26 10:31:27,487 - logs… - INFO - caseList[]
+2020-10-26 10:31:27,824 - logs… - INFO - <Response [200]>
+2020-10-26 10:31:28,055 - logs… - INFO - <Response [200]>
+2020-10-26 10:31:28,734 - logs… - INFO - <Response [200]>
+2020-10-26 10:31:29,377 - logs… - INFO - <Response [200]>
+2020-10-26 10:31:52,263 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-26 10:31:52,263 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-26 10:31:52,263 - logs… - INFO - caseList[]
+2020-10-26 10:31:52,611 - logs… - INFO - <Response [200]>
+2020-10-26 10:31:52,842 - logs… - INFO - <Response [200]>
+2020-10-26 10:31:53,542 - logs… - INFO - <Response [200]>
+2020-10-26 10:31:54,383 - logs… - INFO - <Response [200]>
+2020-10-26 10:44:07,949 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-26 10:44:07,950 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-26 10:44:07,950 - logs… - INFO - caseList[]
+2020-10-26 10:44:08,321 - logs… - INFO - <Response [200]>
+2020-10-26 10:44:08,575 - logs… - INFO - <Response [200]>
+2020-10-26 10:44:09,192 - logs… - INFO - <Response [200]>
+2020-10-26 10:44:09,799 - logs… - INFO - <Response [200]>
+2020-10-26 10:44:54,954 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-26 10:44:54,954 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-26 10:44:54,954 - logs… - INFO - caseList[]
+2020-10-26 10:44:55,309 - logs… - INFO - <Response [200]>
+2020-10-26 10:44:55,545 - logs… - INFO - <Response [200]>
+2020-10-26 10:44:56,290 - logs… - INFO - <Response [200]>
+2020-10-26 10:44:56,902 - logs… - INFO - <Response [200]>
+2020-10-26 10:46:56,824 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-26 10:46:56,824 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-26 10:46:56,824 - logs… - INFO - caseList[]
+2020-10-26 10:47:13,509 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-26 10:47:13,509 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-26 10:47:13,509 - logs… - INFO - caseList[]
+2020-10-26 10:47:13,921 - logs… - INFO - <Response [200]>
+2020-10-26 10:47:14,203 - logs… - INFO - <Response [200]>
+2020-10-26 10:47:15,187 - logs… - INFO - <Response [200]>
+2020-10-26 10:47:16,378 - logs… - INFO - <Response [200]>
+2020-10-26 10:47:32,137 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-26 10:47:32,137 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-26 10:47:32,137 - logs… - INFO - caseList[]
+2020-10-26 10:47:56,071 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-26 10:47:56,073 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-26 10:47:56,074 - logs… - INFO - caseList[]
+2020-10-26 10:47:56,473 - logs… - INFO - <Response [200]>
+2020-10-26 10:47:56,766 - logs… - INFO - <Response [200]>
+2020-10-26 10:47:57,746 - logs… - INFO - <Response [200]>
+2020-10-26 10:47:58,477 - logs… - INFO - <Response [200]>
+2020-10-26 10:48:22,081 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-26 10:48:22,081 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-26 10:48:22,081 - logs… - INFO - caseList[]
+2020-10-26 10:48:22,486 - logs… - INFO - <Response [200]>
+2020-10-26 10:48:22,747 - logs… - INFO - <Response [200]>
+2020-10-26 10:48:23,753 - logs… - INFO - <Response [200]>
+2020-10-26 10:48:24,572 - logs… - INFO - <Response [200]>
+2020-10-26 10:49:04,340 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-26 10:49:04,340 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-26 10:49:04,340 - logs… - INFO - caseList[]
+2020-10-26 10:49:04,840 - logs… - INFO - <Response [200]>
+2020-10-26 10:49:05,083 - logs… - INFO - <Response [200]>
+2020-10-26 10:49:05,943 - logs… - INFO - <Response [200]>
+2020-10-26 10:49:06,761 - logs… - INFO - <Response [200]>
+2020-10-26 10:49:29,378 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-26 10:49:29,378 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-26 10:49:29,378 - logs… - INFO - caseList[]
+2020-10-26 10:49:29,735 - logs… - INFO - <Response [200]>
+2020-10-26 10:49:30,002 - logs… - INFO - <Response [200]>
+2020-10-26 10:49:30,722 - logs… - INFO - <Response [200]>
+2020-10-26 10:49:31,544 - logs… - INFO - <Response [200]>
+2020-10-26 10:49:42,512 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-26 10:49:42,512 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-26 10:49:42,512 - logs… - INFO - caseList[]
+2020-10-26 10:49:42,906 - logs… - INFO - <Response [200]>
+2020-10-26 10:49:43,161 - logs… - INFO - <Response [200]>
+2020-10-26 10:49:43,829 - logs… - INFO - <Response [200]>
+2020-10-26 10:49:44,649 - logs… - INFO - <Response [200]>
+2020-10-26 10:50:22,366 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-26 10:50:22,367 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-26 10:50:22,367 - logs… - INFO - caseList[]
+2020-10-26 10:50:22,751 - logs… - INFO - <Response [200]>
+2020-10-26 10:50:23,061 - logs… - INFO - <Response [200]>
+2020-10-26 10:50:23,765 - logs… - INFO - <Response [200]>
+2020-10-26 10:50:24,584 - logs… - INFO - <Response [200]>
+2020-10-26 10:51:14,384 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-26 10:51:14,384 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-26 10:51:14,384 - logs… - INFO - caseList[]
+2020-10-26 10:51:31,760 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-26 10:51:31,760 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-26 10:51:31,760 - logs… - INFO - caseList[]
+2020-10-26 10:51:49,042 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-26 10:51:49,042 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-26 10:51:49,042 - logs… - INFO - caseList[]
+2020-10-26 10:51:49,454 - logs… - INFO - <Response [200]>
+2020-10-26 10:51:49,746 - logs… - INFO - <Response [200]>
+2020-10-26 10:51:50,395 - logs… - INFO - <Response [200]>
+2020-10-26 10:51:51,010 - logs… - INFO - <Response [200]>
+2020-10-26 10:52:17,875 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-26 10:52:17,876 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-26 10:52:17,876 - logs… - INFO - caseList[]
+2020-10-26 10:52:18,281 - logs… - INFO - <Response [200]>
+2020-10-26 10:52:18,589 - logs… - INFO - <Response [200]>
+2020-10-26 10:52:19,477 - logs… - INFO - <Response [200]>
+2020-10-26 10:52:20,296 - logs… - INFO - <Response [200]>
+2020-10-26 10:52:32,703 - logs… - INFO - resultPath/Users/jamin/PycharmProjects/interfaceTest/result/report.html
+2020-10-26 10:52:32,703 - logs… - INFO - caseListFile/Users/jamin/PycharmProjects/interfaceTest/caselist.txt
+2020-10-26 10:52:32,703 - logs… - INFO - caseList[]
+2020-10-26 10:52:33,089 - logs… - INFO - <Response [200]>
+2020-10-26 10:52:33,329 - logs… - INFO - <Response [200]>
+2020-10-26 10:52:34,017 - logs… - INFO - <Response [200]>
+2020-10-26 10:52:34,837 - logs… - INFO - <Response [200]>

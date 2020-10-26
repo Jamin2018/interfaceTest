@@ -1,0 +1,4 @@
+user/test01case
+user/test02case
+#shop/test_my_shop
+#shop/test_new_shop
